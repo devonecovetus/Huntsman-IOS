@@ -1,0 +1,6 @@
+framework module Pods_Huntsman {
+  umbrella header "Pods-Huntsman-umbrella.h"
+
+  export *
+  module * { export * }
+}

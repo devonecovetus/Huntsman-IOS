@@ -1,0 +1,13 @@
+/* 
+  Localizable.strings
+  Huntsman
+
+  Created by Rupesh Chhabra on 27/02/18.
+  Copyright © 2018 covetus llc. All rights reserved.
+*/
+
+"Welcome" = "欢迎";
+"Thank you for trying this app, you are a great person!" = "感谢您尝试这个应用程序，你是一个伟大的人！";
+"Cancel" = "取消";
+"Signup" = "注册";
+"EVENTS" = "活动";
